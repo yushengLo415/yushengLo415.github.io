@@ -20,7 +20,7 @@ timezone:
 
 title: Rooney # the main title
 
-tagline: # it will display as the sub-title
+tagline: Code is like humor. When you have to explain it, it’s bad. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
